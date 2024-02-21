@@ -9,9 +9,14 @@ contributor:
     gutenberg_agent_id: '56359'
     url: http://www.gutenberg.org/2009/agents/56359
     wikipedia: https://en.wikipedia.org/wiki/Emily_Georgiana_Kemp
+covers:
+- cover_type: archival
+  image_path: 72882-h/images/cover.jpg
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72882#The-face-of-China-b-Travels-in-east-north-central-and-western-China
 gutenberg_issued: '2024-02-06'
 gutenberg_type: Text
 identifiers:
